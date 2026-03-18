@@ -1,0 +1,9 @@
+{
+  "name": "DevTools - 開発者ツール集",
+  "short_name": "DevTools",
+  "description": "JSON整形・文字数カウント・パスワード生成など無料ツール集",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#e8c872"
+}
