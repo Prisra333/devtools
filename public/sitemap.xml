@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://your-domain.vercel.app/</loc><priority>1.0</priority></url>
-  <url><loc>https://your-domain.vercel.app/#json</loc><priority>0.9</priority></url>
-  <url><loc>https://your-domain.vercel.app/#counter</loc><priority>0.9</priority></url>
-  <url><loc>https://your-domain.vercel.app/#password</loc><priority>0.9</priority></url>
-  <url><loc>https://your-domain.vercel.app/#qr</loc><priority>0.9</priority></url>
-  <url><loc>https://your-domain.vercel.app/#gradient</loc><priority>0.9</priority></url>
+  <url><loc>https://devtools-livid-five.vercel.app/</loc><priority>1.0</priority></url>
+  <url><loc>https://devtools-livid-five.vercel.app/#json</loc><priority>0.9</priority></url>
+  <url><loc>https://devtools-livid-five.vercel.app/#counter</loc><priority>0.9</priority></url>
+  <url><loc>https://devtools-livid-five.vercel.app/#password</loc><priority>0.9</priority></url>
+  <url><loc>https://devtools-livid-five.vercel.app/#qr</loc><priority>0.9</priority></url>
+  <url><loc>https://devtools-livid-five.vercel.app/#gradient</loc><priority>0.9</priority></url>
 </urlset>
